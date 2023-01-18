@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 ![banner-github](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/manu-github.png) 
 # Projeto - Android
 ## Descrição:
 Nome |   Descrição
 ---- | -----------
-Android | Nesse exercício foi criado uma pagina base **HTML**, contando um pouco da história do  masacote da android, aonde  temos **links** que direcionados para a **página de Dan Morril** que fez a primeira versão do mascote e também para a página de **Irina Block**, a ilutradora do mascote. 
-Descrevemos também as versões do Android deste a sua versão incial que é a v1.5 e um **link** para derecionar para a sua versão atual.   
+Android | Nesse exercício foi criado uma pagina base **HTML**, contando um  pouco da história do  masacote da android, aonde  temos **links** que direcionados para a **página de Dan Morril** que fez a primeira versão do mascote e também para a página de **Irina Block**, a ilutradora do mascote.Descrevemos também as versões do Android deste a sua versão incial que é a v1.5 e um **link** para derecionar para a sua versão atual.   
 
 ## Funcionalidades
 
@@ -17,7 +15,7 @@ Descrevemos também as versões do Android deste a sua versão incial que é a v
 
 ## Gif do projeto
 
-![Projeto- Android](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/screenshout.png?raw=true)
+![Projeto- Android](https://github.com/emmanuelmarcosdeoliveira/projeto-android/blob/main/imagens/Projeto%20-%20droid.gif)
 
 ## Demonstração
 Clique no link para acessar. <br>
@@ -45,6 +43,4 @@ Para fazer o deploy desse projeto rode
  - [Estudonauta](https://www.estudonauta.com/)
  - [Curso em video](https://cursoemvideo.com)
  
-=======
->>>>>>> 6120d698ecf804dba8f56078a7394ad3700ea362
 
