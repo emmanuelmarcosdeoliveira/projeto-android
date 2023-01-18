@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![banner-github](https://github.com/emmanuelmarcosdeoliveira/media-query/blob/main/imagens/manu-github.png) 
 # Projeto - Android
 ## Descrição:
@@ -44,4 +45,6 @@ Para fazer o deploy desse projeto rode
  - [Estudonauta](https://www.estudonauta.com/)
  - [Curso em video](https://cursoemvideo.com)
  
+=======
+>>>>>>> 6120d698ecf804dba8f56078a7394ad3700ea362
 
